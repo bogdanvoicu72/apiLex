@@ -6,8 +6,8 @@ const config={
     default : {
         SECRET: 'lexbitwize',
         DATABASE: 'mongodb+srv://bitwize:Bitwizedev99!@cluster0.nsu9t.mongodb.net/myFirstDatabase?',
-        user:'beoriginalbynofake@gmail.com',
-        pass: 'Thtlfrctyuy99'
+        user:'developmentbitwize@gmail.com',
+        pass: 'Developmentbitwize99'
 
     }
 }
